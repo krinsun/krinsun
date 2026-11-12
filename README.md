@@ -14,4 +14,4 @@
 
 🔗 **https://atlas-quimico-web.onrender.com**
 
-Note: Some bugs may occur when using it, as this is a beginner project.  ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧
+**Disclaimer:** This little laboratory is still a work in progress, so a few bugs might escape the test tubes. ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧
