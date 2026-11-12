@@ -10,7 +10,7 @@
 - **Requests**
 - **PubChem PUG REST API**
 
-### 🚀 Explore
+### 🚀 Explore （'• ω • `）
 
 🔗 **https://atlas-quimico-web.onrender.com**
 
