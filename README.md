@@ -1,4 +1,4 @@
-# 🧪 Atlas Químico✨✨
+# 🧪 Atlas Químico (૭ ｡•̀ ᵕ •́｡ )૭
 
 **Atlas Químico** is a web application developed to explore some chemical information through a simple and interactive interface, combining programming and chemistry. 
 
